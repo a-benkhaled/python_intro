@@ -1,0 +1,10 @@
+-Install:
+    Python      
+    VSCode
+- Run VSCode
+- Clone https://github.com/a-benkhaled/python_intro.git
+- Run pip install -r requirements.txt
+
+in case you need to define the email:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
