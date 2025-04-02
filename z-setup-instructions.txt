@@ -3,6 +3,7 @@
     VSCode
 - Run VSCode
 - Clone https://github.com/a-benkhaled/python_intro.git
+- (Create a virtual environment)
 - Run pip install -r requirements.txt
 
 in case you need to define the email:
